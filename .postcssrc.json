@@ -11,7 +11,8 @@
         "not-pseudo-class": false,
         "focus-visible-pseudo-class": false,
         "focus-within-pseudo-class": false,
-        "color-functional-notation": false
+        "color-functional-notation": false,
+        "overflow-wrap-property": false
       }
     }
   }

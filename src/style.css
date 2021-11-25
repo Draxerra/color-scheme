@@ -1,8 +1,1 @@
-@custom-media --dark (prefers-color-scheme: dark);
-
-@media (--dark) {
-    div {
-        background-color: blue;
-        color: white;
-    }
-}
+@import "./css/base/index.css";
